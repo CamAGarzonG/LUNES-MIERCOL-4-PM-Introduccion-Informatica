@@ -1,0 +1,3 @@
+git clone "url del proyecto"    //  descargar proyectos
+
+git pull origin master    //  descargar archivos nuevos y los modificados
